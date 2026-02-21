@@ -10,7 +10,7 @@
 
 **A perma-protoboard (soldered breadboard) for the [tinyCore](https://github.com/Mister-Industries/tinyCore) ESP32-S3 platform.**
 
-[Purchase](https://tinycore.cc/store/tinyproto) · [Discord](https://discord.gg/hvJZhwfQsF) · [Documentation](https://docs.mr.industries)
+[Purchase](https://tinycore.cc/store/products/tinyproto) · [Discord](https://discord.gg/hvJZhwfQsF) · [Documentation](https://docs.mr.industries)
 
 </div>
 
